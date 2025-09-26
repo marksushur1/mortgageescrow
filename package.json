@@ -1,6 +1,7 @@
 {
   "name": "vercel-two-tables",
   "private": true,
+  "engines": { "node": ">=18 <21" },
   "scripts": {
     "build": "next build",
     "start": "next start"
